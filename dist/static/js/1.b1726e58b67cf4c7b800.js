@@ -1,0 +1,2 @@
+webpackJsonp([1],{c27y:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v(this._s(this.name))])},staticRenderFns:[]};var i=t("VU/8")({data:function(){return{name:"yangdajun"}},created:function(){},mounted:function(){}},a,!1,function(e){t("zIWV")},"data-v-abe5af26",null);n.default=i.exports},zIWV:function(e,n){}});
+//# sourceMappingURL=1.b1726e58b67cf4c7b800.js.map
